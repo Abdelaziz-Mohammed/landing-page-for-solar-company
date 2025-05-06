@@ -8,6 +8,8 @@ A modern, responsive landing page for a solar panel company, showcasing products
 
 **Live Demo:** [Solar Company Landing Page](https://landing-page-for-solar-company-nine.vercel.app/)
 
+## Features
+
 - Responsive layout for mobile and desktop
 - Smooth navigation with different sections
 - Integrated FontAwesome icons
