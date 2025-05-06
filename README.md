@@ -36,9 +36,13 @@ landing-page-for-solar-company/
 ## Getting Started
 ```
 git clone https://github.com/Abdelaziz-Mohammed/landing-page-for-solar-company.git
+```
+```
 cd landing-page-for-solar-company
 ```
+```
 open index.html
+```
 
 ## 👨‍💻 Author
 **Eng. Abdelaziz Mohamed**
