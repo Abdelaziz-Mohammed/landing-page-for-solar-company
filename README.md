@@ -6,7 +6,7 @@
 
 A modern, responsive landing page for a solar panel company, showcasing products, services, company values, and contact options. Built using HTML and CSS with an emphasis on clean design, clear content structure, and accessibility. This is a part of my internship at Web Masters Company.
 
-**Live Demo:** [Movie App](https://landing-page-for-solar-company-nine.vercel.app/)
+**Live Demo:** [Solar Company Landing Page](https://landing-page-for-solar-company-nine.vercel.app/)
 
 - Responsive layout for mobile and desktop
 - Smooth navigation with different sections
