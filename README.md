@@ -1,6 +1,6 @@
 # Solar Company Landing Page
 
-![Thumbnail]!(images/thumbnail.png)
+![Thumbnail](images/thumbnail.png)
 
 ## Project Overview
 
